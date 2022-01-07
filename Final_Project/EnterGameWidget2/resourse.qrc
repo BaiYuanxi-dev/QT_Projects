@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/rankImg/head (1).jpg</file>
+        <file>image/rankImg/head (2).jpg</file>
+        <file>image/rankImg/head (3).jpg</file>
+        <file>image/rankImg/head (4).jpg</file>
+        <file>image/rankImg/head (5).jpg</file>
+        <file>image/rankImg/head (6).jpg</file>
+        <file>image/rankImg/head (7).jpg</file>
+        <file>image/rankImg/head (8).jpg</file>
+    </qresource>
+</RCC>

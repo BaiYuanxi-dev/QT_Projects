@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>EnterGameWindow</class>
+ <widget class="QMainWindow" name="EnterGameWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>EnterGameWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QListWidget" name="rankListWidget">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>350</y>
+      <width>91</width>
+      <height>201</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string>str1</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>image/rankImg/head (1).jpg</normaloff>image/rankImg/head (1).jpg</iconset>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>str2</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>image/rankImg/head (2).jpg</normaloff>image/rankImg/head (2).jpg</iconset>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>str3</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>image/rankImg/head (3).jpg</normaloff>image/rankImg/head (3).jpg</iconset>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>str4</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>image/rankImg/head (4).jpg</normaloff>image/rankImg/head (4).jpg</iconset>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>str5</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>image/rankImg/head (5).jpg</normaloff>image/rankImg/head (5).jpg</iconset>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>str6</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>image/rankImg/head (6).jpg</normaloff>image/rankImg/head (6).jpg</iconset>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>str7</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>image/rankImg/head (7).jpg</normaloff>image/rankImg/head (7).jpg</iconset>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>str8</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>image/rankImg/head (8).jpg</normaloff>image/rankImg/head (8).jpg</iconset>
+     </property>
+    </item>
+   </widget>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>290</y>
+      <width>93</width>
+      <height>28</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>PushButton</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

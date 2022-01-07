@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/game4">
+        <file>game4/back.png</file>
+        <file>game4/background.png</file>
+        <file>game4/box0.png</file>
+        <file>game4/box1.png</file>
+        <file>game4/box2.png</file>
+        <file>game4/box3.png</file>
+        <file>game4/box4.png</file>
+        <file>game4/box5.png</file>
+        <file>game4/fastSpeed.png</file>
+        <file>game4/gameBackground.png</file>
+        <file>game4/kaixinxiaoxiaole.png</file>
+        <file>game4/midSpeed.png</file>
+        <file>game4/pauseBtn.png</file>
+        <file>game4/paused.png</file>
+        <file>game4/score.png</file>
+        <file>game4/slowSpeed.png</file>
+        <file>game4/circle0.png</file>
+        <file>game4/circle1.png</file>
+        <file>game4/circle2.png</file>
+        <file>game4/circle3.png</file>
+        <file>game4/circle4.png</file>
+        <file>game4/circle5.png</file>
+    </qresource>
+</RCC>

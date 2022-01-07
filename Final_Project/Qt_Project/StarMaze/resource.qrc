@@ -1,0 +1,63 @@
+<RCC>
+    <qresource prefix="/GameImg">
+        <file>resource/gameImg/back.png</file>
+        <file>resource/gameImg/background.png</file>
+        <file>resource/gameImg/box0.png</file>
+        <file>resource/gameImg/box1.png</file>
+        <file>resource/gameImg/box2.png</file>
+        <file>resource/gameImg/box3.png</file>
+        <file>resource/gameImg/box4.png</file>
+        <file>resource/gameImg/box5.png</file>
+        <file>resource/gameImg/fastSpeed.png</file>
+        <file>resource/gameImg/gameBackground.png</file>
+        <file>resource/gameImg/kaixinxiaoxiaole.png</file>
+        <file>resource/gameImg/midSpeed.png</file>
+        <file>resource/gameImg/pauseBtn.png</file>
+        <file>resource/gameImg/paused.png</file>
+        <file>resource/gameImg/score.png</file>
+        <file>resource/gameImg/slowSpeed.png</file>
+    </qresource>
+    <qresource prefix="/Music">
+        <file>resource/mp3/amazing.mp3</file>
+        <file>resource/mp3/backgroundMusic.mp3</file>
+        <file>resource/mp3/click.mp3</file>
+        <file>resource/mp3/erase.mp3</file>
+        <file>resource/mp3/popWindow.mp3</file>
+        <file>resource/mp3/unbelievable.mp3</file>
+    </qresource>
+    <qresource prefix="/mainWindowImg">
+        <file>resource/mainWindowImg/background0.png</file>
+        <file>resource/mainWindowImg/backgrounds.png</file>
+        <file>resource/mainWindowImg/classFour.png</file>
+        <file>resource/mainWindowImg/classOne.png</file>
+        <file>resource/mainWindowImg/classThree.png</file>
+        <file>resource/mainWindowImg/classTwo.png</file>
+        <file>resource/mainWindowImg/happy.png</file>
+        <file>resource/mainWindowImg/help.png</file>
+        <file>resource/mainWindowImg/helpInfo.png</file>
+    </qresource>
+    <qresource prefix="/Image">
+        <file>resource/image/rankBk/RankBackground.png</file>
+        <file>resource/image/rankBk/RankBk2.jpg</file>
+        <file>resource/image/buttonImg/startButton.png</file>
+        <file>resource/image/enterWidBk/background4.jpg</file>
+        <file>resource/image/enterWidBk/enterWidBackground2.png</file>
+        <file>resource/image/rankImg/head (1).png</file>
+        <file>resource/image/rankImg/head (2).png</file>
+        <file>resource/image/rankImg/head (3).png</file>
+        <file>resource/image/rankImg/head (4).png</file>
+        <file>resource/image/rankImg/head (5).png</file>
+        <file>resource/image/rankImg/head (6).png</file>
+        <file>resource/image/rankImg/head (7).png</file>
+        <file>resource/image/rankImg/head (8).png</file>
+        <file>resource/image/rankImg/rank (1).png</file>
+        <file>resource/image/rankImg/rank (2).png</file>
+        <file>resource/image/rankImg/rank (3).png</file>
+        <file>resource/image/rankImg/rank (4).png</file>
+        <file>resource/image/rankImg/rank (5).png</file>
+        <file>resource/image/rankImg/rank (6).png</file>
+        <file>resource/image/rankImg/rank (7).png</file>
+        <file>resource/image/rankImg/rank (8).png</file>
+        <file>resource/image/rankImg/title2.png</file>
+    </qresource>
+</RCC>

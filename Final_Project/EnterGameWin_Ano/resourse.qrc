@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/enterWidBk/background.png</file>
+        <file>image/enterWidBk/background2.jpg</file>
+        <file>image/enterWidBk/enterWidBackground.png</file>
+        <file>image/enterWidBk/enterWidBackground2.png</file>
+        <file>image/rankImg/head (1).jpg</file>
+        <file>image/rankImg/head (2).jpg</file>
+        <file>image/rankImg/head (3).jpg</file>
+        <file>image/rankImg/head (4).jpg</file>
+        <file>image/rankImg/head (5).jpg</file>
+        <file>image/rankImg/head (6).jpg</file>
+        <file>image/rankImg/head (7).jpg</file>
+        <file>image/rankImg/head (8).jpg</file>
+        <file>image/rankImg/title.png</file>
+        <file>image/rankImg/title2.png</file>
+    </qresource>
+</RCC>

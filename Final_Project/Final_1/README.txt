@@ -1,0 +1,4 @@
+1.GameWidget类是我直接copy周一写的游戏界面，
+	这里面应该没有其他的MainWindow窗口了，
+	应该可以直接把MainWindow游戏窗口导入。
+2.controlClass就是控制类，理论上在这里面直接创建对象交互就可以

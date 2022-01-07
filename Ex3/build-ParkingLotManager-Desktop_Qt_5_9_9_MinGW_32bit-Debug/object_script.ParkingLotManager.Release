@@ -1,0 +1,12 @@
+INPUT(
+./release\car.o
+./release\leftwidget.o
+./release\main.o
+./release\mainwindow.o
+./release\partinglot.o
+./release\position.o
+./release\rightwidget.o
+./release\moc_leftwidget.o
+./release\moc_mainwindow.o
+./release\moc_rightwidget.o
+);

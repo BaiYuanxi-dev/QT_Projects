@@ -1,0 +1,3 @@
+D:\Qt\Final_Project\Final_1： 排行榜界面
+D:\Qt\Final_Project2\Game4_3：游戏第四关界面（渐变崩了）
+D:\Qt\Final_Project2\Game4Widget： 游戏第四关渐变实现（较好）

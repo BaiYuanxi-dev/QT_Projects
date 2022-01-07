@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>uiProject/pauseBackground1.png</file>
+        <file>uiProject/pauseBackground2.png</file>
+    </qresource>
+</RCC>

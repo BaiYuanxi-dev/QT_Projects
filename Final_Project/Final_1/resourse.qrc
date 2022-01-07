@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/buttonImg/startButton.png</file>
+        <file>image/enterWidBk/background3.jpg</file>
+        <file>image/enterWidBk/enterWidBackground2.png</file>
+        <file>image/gameImg/box0.png</file>
+        <file>image/gameImg/box1.png</file>
+        <file>image/gameImg/box2.png</file>
+        <file>image/gameImg/box3.png</file>
+        <file>image/gameImg/box4.png</file>
+        <file>image/gameImg/box5.png</file>
+        <file>image/gameImg/gameBackground.png</file>
+        <file>image/rankBk/RankBackground.png</file>
+        <file>image/rankImg/rank (1).png</file>
+        <file>image/rankImg/rank (2).png</file>
+        <file>image/rankImg/rank (3).png</file>
+        <file>image/rankImg/rank (4).png</file>
+        <file>image/rankImg/rank (5).png</file>
+        <file>image/rankImg/rank (6).png</file>
+        <file>image/rankImg/rank (7).png</file>
+        <file>image/rankImg/rank (8).png</file>
+        <file>image/rankImg/title2.png</file>
+        <file>image/gameImg/pauseBtn.png</file>
+        <file>image/rankImg/head (1).png</file>
+        <file>image/rankImg/head (2).png</file>
+        <file>image/rankImg/head (3).png</file>
+        <file>image/rankImg/head (4).png</file>
+        <file>image/rankImg/head (5).png</file>
+        <file>image/rankImg/head (6).png</file>
+        <file>image/rankImg/head (7).png</file>
+        <file>image/rankImg/head (8).png</file>
+        <file>image/rankBk/listBk3.png</file>
+        <file>image/rankBk/listBk4.png</file>
+        <file>image/enterWidBk/background4.jpg</file>
+        <file>image/rankBk/RankBk2.jpg</file>
+    </qresource>
+</RCC>
